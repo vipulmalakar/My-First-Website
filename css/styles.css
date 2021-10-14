@@ -7,7 +7,7 @@ body{
 }
   /* <!-- For        Switch       To        Dark Mode/Light Mode --> */
 .dark-mode {
-  background-color: black;
+  background-color: #121212;
   color: white;
 }
 
